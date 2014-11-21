@@ -14,3 +14,4 @@ def fibonacci_even
   puts sum
 end
 
+puts fiboncci_even
